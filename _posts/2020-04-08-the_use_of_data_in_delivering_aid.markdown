@@ -1,0 +1,17 @@
+---
+layout: post
+title:      "The Use of Data In Delivering Aid "
+date:       2020-04-08 20:07:11 +0000
+permalink:  the_use_of_data_in_delivering_aid
+---
+
+## Data & COVID-19
+
+With the current pandemic of COVID-19, there is perhaps no time in recent history more relevant to the plethora of data presented to everyday individuals. Fueled by social media, most people have bee bombarded with news updates and “facts” at a rapid pace, often with very little to no context or explanation of these facts. From the pandemics affects the stock market to aid’s effect on small businesses – the data load becomes stress-inducing to individuals. Data and the method of presentation are what defines data science and showcase its true potential to make life easier and more beneficial to those around us. 
+
+As an example, let us take into consideration the SBA’s emergency funding for small businesses due to COVID-19. Information about COVID-19  aid was presented to small companies little by little, and knowledge changed so frequently that many small businesses who have already been suffering tremendous losses, have yet even to decide which option to select. If the data had been presented in an easy to understand manner, the aid would have been accessed quicker by those who need it. By collecting this underlying data and using a method of filtering and “rules,” even the most basic program could quickly return which aid options the small business is eligible for as well as could apply for concurrently; without the need for a phone call!  If SBA had utilized data collection and data science methods more rigorously, small business owners could have had an easier time during the decision process.  Instead of these straight forward options, the SBA opted for these small businesses to have to call in and wait on hold for hours or read not clear jargon in an attempt to understand which aid they qualify. A useful measure the SBA could implement to aid small businesses further is by creating and maintaining a proper directory of all the small businesses in the United States. Had a directory like this existed before COVID-19, it could then have been sorted and filtered through to show small businesses in “hot-spots” who may be eligible for aid. The SBA could have taken it one step further as to utilize that filtered list to directly contact those small businesses and notify them of their options – instead of the method that was put into play of stressed-out entrepreneurs being inundated with news briefs about aid for small businesses most of which they are unable to apply for or simply do not qualify. 
+
+Perhaps the most interesting is that many software and marketing companies have already done this – they’ve segmented their clients and targeted newsletters and calculators towards them based on all of the data they’ve collected. By extrapolating data to target their audience, these businesses can provide them with helpful insight into aid options. These companies have also begun to explain different marketing tacts that could help benefit the small businesses that are struggling. In some cases, this has resulted in increased trust between companies and their clients.  All of these are examples of data usage and cultivation that data science can help us to apply not just to understand current events better but to navigate difficult decisions and, in some cases, help to keep a business afloat. While this is a challenging time for a career change, I am glad I have chosen to start my journey into data science at such a pivotal time. 
+
+
+
