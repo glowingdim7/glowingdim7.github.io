@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why Pandas Will Be Your Most Used Tool"
-date:       2020-05-12 22:44:18 +0000
+date:       2020-05-12 18:44:19 -0400
 permalink:  why_pandas_will_be_your_most_used_tool
 ---
 
